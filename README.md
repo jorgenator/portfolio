@@ -47,7 +47,7 @@ Gained valuable experience in a fast-paced retail IT environment, enhancing
 technical skills and problem-solving abilities.
 
 ## Projects
-### [My academic proyects are available in:]
+### My academic proyects are available on:
 - [Projects by Jorge Romero](https://jorgenator.github.io/jorgehungary/university/index.html)
 
 ## Activities
