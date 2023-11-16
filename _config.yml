@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Jorge Romero
+description: Enthusiastic student dedicated to academic excellence, with a passion for learning from diverse sources—avidly reading, listening, and absorbing knowledge from books and people alike
