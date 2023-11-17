@@ -2,6 +2,8 @@
 
 ## Personal Information
 - **Name:** Jorge Romero
+- **Age:** 24.
+- **Nationality:** Panamanian
 - **Contact:** jromerog0802@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/jorge-romero-102130219](https://www.linkedin.com/in/jorge-romero-102130219/)
 
