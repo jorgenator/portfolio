@@ -6,6 +6,7 @@
 - **Nationality:** Panamanian
 - **Contact:** jromerog0802@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/jorge-romero-102130219](https://www.linkedin.com/in/jorge-romero-102130219/)
+- **Languages:** English (Advanced), Hungarian (Beginner), Portuguese (Beginner), Spanish (Native)
 
 ## Summary
 Enthusiastic and dedicated student passionate about academic excellence. Eager to learn and thrive in diverse environments, with a proactive and adaptable approach. Loves acquiring knowledge through reading and actively engaging with people's ideas.
